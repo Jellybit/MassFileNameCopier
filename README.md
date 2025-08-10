@@ -29,7 +29,7 @@ I often need to rename a bunch of files to match the names of another set, like 
   - The path will show as the folder path or file paths separated by |||.
 - **Get File Names:**
   - Click **Get File Names** to list the names (without extensions) of the files in the input path.
-  - Alternatively, drag another set of files into the file names box to extract their names, or type/paste custom names (one per line).
+  - Alternatively, drag another set of files into the file names box to extract their names in one action, or type/paste custom names (one per line).
 - **Rename Files:**
   - Edit the names in the file names box if needed.
   - Click **Rename Files** to apply the names in the text box to the files in the input path, keeping their original extensions.
