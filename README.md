@@ -1,5 +1,5 @@
 # Mass File Name Copier
-A PowerShell script with a GUI to simplify and speed up renaming multiple files by copying names from one set to another, or creating a bunch of file names in some other editor.
+A PowerShell script with a drag-n-drop GUI to simplify and speed up renaming multiple files by copying names from one set to another, or creating a bunch of file names in some other editor.
 
 <img width="750" height="563" alt="image" src="https://github.com/user-attachments/assets/9e1c1146-50f3-4c7b-90d8-90879df5e8cb" />
 
