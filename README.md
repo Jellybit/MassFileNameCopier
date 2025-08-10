@@ -48,7 +48,7 @@ To create a standalone executable without the console window, follow these steps
 ```powershell
 Install-Module ps2exe
 Set-ExecutionPolicy RemoteSigned -Scope Process -Force
-ps2exe "!Mass File Name Copier.ps1" "MassFileNameCopier.exe" -noConsole
+ps2exe "MassFileNameCopier.ps1" "MassFileNameCopier.exe" -noConsole
 ```
 
 This installs `ps2exe`, which compiles PowerShell scripts. The execution policy command temporarily allows compilation, reverting when you close the PowerShell window.
