@@ -3,7 +3,7 @@ A PowerShell script with a drag-n-drop GUI to simplify and speed up renaming mul
 
 <img width="750" height="563" alt="image" src="https://github.com/user-attachments/assets/9e1c1146-50f3-4c7b-90d8-90879df5e8cb" />
 
-I often need to rename a bunch of files to match the names of another set, like when organizing media files, or just to create my own naming style in Excel and mass rename based on that. Batch renaming tools don’t let you directly copy names from one set to another, and they also tend to have issues with non-English characters, or other special characters. So, I created this drag-n-drop GUI tool to make the process fast for me, especially for complex file names with special characters. Most of the time, I just get the file names, and make all the changes I want in Notepad++, then send it back to the original files.
+I often need to rename a bunch of files to match the names of another set, like when organizing media files, or just to create my own naming style in Excel and mass rename based on that. Batch renaming tools don’t let you directly copy names from one set to another, and they also tend to have issues with non-English characters, or other special characters. So, I created this drag-n-drop GUI tool to make the process fast for me, especially for complex file names with special characters. Most of the time, I just get the file names, and make all the changes I want in Notepad++, then send it back to the original files. But I also like making all new file names in Excel because I can just drag down cells to cover episode numbers, and other things like that.
 
 ## Features
 
